@@ -58,12 +58,8 @@ li {
   background-color: black;
 }
 @media (max-width: 800px) {
-table {
-    width: 100px;
-    height: 200px;
-    display: flex;
-    flex-direction: row;
-    overflow: hidden;
+.images {
+    width: 100%;
+    image-rendering: auto;
   }
-}
-}
+} 
