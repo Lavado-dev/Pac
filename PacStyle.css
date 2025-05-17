@@ -1,0 +1,61 @@
+* {
+  box-sizing: 0px;
+}
+
+.corpo {
+  background: rgb(rgb(0, 0, 0));
+  background: linear-gradient(
+    90deg,
+    rgb(109, 107, 107),
+    rgba(218, 165, 32, 0.836)
+  );
+}
+
+.pac {
+  height: 375px;
+}
+
+.logo {
+  width: 500px;
+  height: 350px;
+}
+
+a {
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.dica {
+  font-weight: 1000;
+  color: rgb(192, 192, 192);
+}
+
+.quem {
+  color: rgb(192, 192, 192);
+}
+
+.pq {
+  color: rgb(192, 192, 192);
+}
+
+ul {
+  font-weight: 1000;
+  color: rgb(192, 192, 192);
+}
+
+p {
+  color: rgb(192, 192, 192);
+}
+
+li {
+  color: rgb(192, 192, 192);
+}
+
+.botão {
+  color: rgb(192, 192, 192);
+  margin-left: 45%;
+  border: none;
+  background-color: black;
+}
+@media (max-width: 800px) {
+}
