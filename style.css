@@ -59,7 +59,7 @@ li {
 }
 @media (max-width: 800px) {
 .images {
-    max-width: fit-content;
+    max-width: 30%;
     overflow: hidden;
   }
 }
