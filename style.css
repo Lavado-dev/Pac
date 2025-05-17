@@ -58,10 +58,12 @@ li {
   background-color: black;
 }
 @media (max-width: 800px) {
- .images{
+table {
+    width: 100px;
+    height: 200px;
     display: flex;
     flex-direction: row;
-    max-width: 100%;
     overflow: hidden;
   }
+}
 }
