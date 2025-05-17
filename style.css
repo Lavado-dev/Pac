@@ -59,7 +59,7 @@ li {
 }
 @media (max-width: 800px) {
 .images {
-    max-width: 50px;
+    width: 50px;
     overflow: hidden;
   }
 }
