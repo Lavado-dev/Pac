@@ -58,4 +58,8 @@ li {
   background-color: black;
 }
 @media (max-width: 800px) {
+.images {
+    min-width: 100%;
+    overflow: hidden;
+  }
 }
