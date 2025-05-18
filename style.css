@@ -58,7 +58,7 @@ li {
   background-color: black;
 }
 @media (max-width: 800px) {
- table {
+ .images {
     table-layout: auto;
     width: 100%;
     overflow: hidden;
